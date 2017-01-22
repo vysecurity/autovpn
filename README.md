@@ -54,6 +54,9 @@ in Japan:
 $ ./autovpn JP
 ```
 
+You may need superuser priviliges. Don't worry, I'm not running `rm -rf --preserve-root /`
+underneath. It's for `openvpn`.
+
 ### Disclaimer
 
 This is completely insecure. Please do not use this for anything important. Get a
