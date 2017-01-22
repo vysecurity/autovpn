@@ -1,0 +1,3 @@
+[default]
+bears = GofmtBear
+files = *.go
