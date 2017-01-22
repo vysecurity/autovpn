@@ -57,6 +57,14 @@ $ ./autovpn JP
 You may need superuser priviliges. Don't worry, I'm not running `rm -rf --preserve-root /`
 underneath. It's for `openvpn`.
 
+### Contributing
+
+All patches welcome! Please run [coala](https://coala.io) over the code before, however:
+
+```bash
+$ coala
+```
+
 ### Disclaimer
 
 This is completely insecure. Please do not use this for anything important. Get a
